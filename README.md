@@ -1,56 +1,51 @@
+![download](https://github.com/LinguHanzi/.github/blob/main/assets/Mockup1.png)
 
-![download](https://github.com/X-Detect/.github/assets/104212527/670e5c98-26d8-4e7f-9f77-7df53c288128)
-# X-Detect
+# Lingu
+From a review of the current literature and field observations, it has been identified that there is a recurring need for effective tools to aid in learning Mandarin Chinese, particularly the Hanzi characters. The demand for Mandarin language proficiency is increasing globally, yet learners often struggle with mastering the writing and recognition of Hanzi. Traditional methods of learning are often insufficient, leading to frustration and slow progress. Moreover, small language institutions with limited resources and a shortage of qualified teachers face significant challenges in providing accurate and timely feedback to students.
 
-From literature review and field facts, it has been found that there is a recurring process in hospitals of reading disease detection results using X-rays. Meanwhile, the demand for chest disease examinations is increasing. It is often found that doctors make reading errors, and even small hospitals without a resident doctor struggle to produce accurate and timely readings. However, we know that X-ray results are an important indicator of the emergence of diseases. Cancer is a serious disease that is often difficult to detect in its early stages, resulting in high mortality rates and a significant burden on society's health. Field facts show the existence of small hospitals with limited medical facilities and a shortage of doctors. Moreover, even though doctors are equipped with competencies to read x-ray results well, factors such as fatigue and lack of concentration often result in inaccurate readings. Furthermore, some x-ray image qualities are poor, making reading even more challenging. From the perspective of medical students, it would be very interesting if they could play with an application that could directly classify results from the x-ray images that are inputted.
+Lingu is a mobile application designed to address these issues by facilitating the learning of Mandarin Chinese Hanzi. Developed using Kotlin and integrated with Firebase Auth and Model Tflite, Lingu provides a comprehensive learning experience. It includes features that allow users to practice Hanzi writing on a digital canvas and receive immediate scoring feedback. This application not only supports learners in improving their writing accuracy but also enhances their overall language acquisition process. For language students, the ability to interact with an application that can directly assess their Hanzi writing inputs is both engaging and educational. Factors such as personalized feedback and interactive learning tools make Lingu an invaluable resource for anyone seeking to master Mandarin Chinese Hanzi.
 
-## Screenshots
-<img src="https://github.com/X-Detect/.github/assets/104212527/0065516a-d29c-48dd-96f4-39ea975c4bdf" width="24%"></img>
-<img src="https://github.com/X-Detect/.github/assets/104212527/cfdbaba2-5e6c-4bfe-853f-f0e5b287d910" width="24%"></img>
-<img src="https://github.com/X-Detect/.github/assets/104212527/6b54fd2c-dfc7-4fd6-ab9d-1a7d5a63b376" width="24%"></img>
-<img src="https://github.com/X-Detect/.github/assets/104212527/9e73420d-0cbe-4640-b79f-9285eb1c1cd5" width="24%"></img>
-<img src="https://github.com/X-Detect/.github/assets/104212527/7962a06d-cf43-436e-930c-489883992672" width="24%"></img>
+# Screenshot
+<img src="https://github.com/LinguHanzi/.github/blob/main/assets/4.png" width="24%"></img>
+<img src="https://github.com/LinguHanzi/.github/blob/main/assets/5.png" width="24%"></img>
+<img src="https://github.com/LinguHanzi/.github/blob/main/assets/6.png" width="24%"></img>
+<img src="https://github.com/LinguHanzi/.github/blob/main/assets/7.png" width="24%"></img>
 
-These are the screenshots of our product. First, on the left displays the home view and there is a guide for using the application. Second from the left, displays the user's profile page. The next image shows the detection results from the x-ray images that have been uploaded. Finally, displays articles to add insight to users.
+## Features
 
-For more detail, please check [this repository](https://github.com/X-Detect/xdetect-md).
+- **Vocabulary Practice**: Learn and review Mandarin words with flashcards and spaced repetition.
+- **Grammar Lessons**: Understand Mandarin sentence structures with detailed explanations and examples.
+- **Pronunciation Guides**: Listen to native speaker pronunciations and practice your own.
+- **Interactive Quizzes**: Test your knowledge with quizzes that adapt to your learning level.
+- **Progress Tracking**: Monitor your progress and set learning goals.
 
-## Key Features
-- Chest X-Ray Disease Detection
-- Article
+## Getting Started
 
-## Additional Features
-- Login and Register
-- Profile and Edit Profile
-- History
+### Prerequisites
 
-## Tech Stack
-**Mobile Application:** Retrofit, Android SDk, Android Support Library, CameraX, Hdodenhof's CircleImageView, Glide. 
+To run Lingu, you need:
 
-For more detail, please check [this repository](https://github.com/X-Detect/xdetect-md).
+- Android Studio (latest version)
+- An Android device or emulator running Android 5.0 (Lollipop) or higher
 
-**Server:** Node, NPM, JavaScript, Cloud Run, Express JS, Firebase, Tensorflow JS, Flask, Python, Postman. 
+### Installation
 
-For more detail, please check [this repository](https://github.com/X-Detect/server-API-xdetect).
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/lingu.git
 
-**Machine Learning Model:** Jupyter Notebook, Tensorflow, Tensorflow JS, NumPy, Matplotlib, Pandas, OpenCV, Skimage, sciPy, os
 
-For more detail, please check [this repository](https://github.com/X-Detect/xdetect-ml).
+## Team ID – C241-PS510
+<br>
 
-## Installation
-Our application is based on Android OS. In order to use our application, you will need an Android device that can runs at least Android OS Version 6.0 (Marshmallow). You can download our application (.apk) from the link down below.
+| Name                   | Student ID   | Path                |
+| ---------------------- | -----------  | ------------------- |
+| Dharma Pratama         | M001D4KY1518 | Machine Learning    |
+| Steven Hesang          | M001D4KY1679 | Machine Learning    |
+| Emmanuel Daniel W      | M005D4KY3228 | Machine Learning    |
+| Nanda Tristan A        | A010D4KY4554 | Mobile Development  |
+| Zacky Muchlas D        | A010D4KY3435 | Mobile Development  |
+| Christofel Vitranata S | C319D4KY1215 | Cloud Computing     |
+| Bihan Harsetya Adinata | C200D4KY0101 | Cloud Computing     |
 
-https://drive.google.com/file/d/1xBgJDhGKiLfhRGLtUbAiLrehN9WIsIWq/view?usp=sharing
-
-The prototype design of this application is based on Figma. If you want to see the prototype design of this application, you can access it using the link provided below.
-
-https://www.figma.com/proto/IJDbZHlW3Tx6ek6txpHCTa/X-Detect?page-id=65%3A2&type=design&node-id=699-1025&viewport=265%2C370%2C0.36&scaling=scale-down&starting-point-node-id=247%3A323
-
-## Contributing
-Bangkit 2023 Capstone Team C23-PC603
-- [Dzaky Abdillah Salafy](https://www.linkedin.com/in/dzaky-abdillah-33943a143/) - Machine Learning - M121DKX4633
-- [Ahmad Habib Rizqi](https://www.linkedin.com/in/ahmad-habib-rizqi-846479221) - Machine Learning - M260DSX2594
-- [Akhmad Nur Fadhil](https://www.linkedin.com/in/akhmad-nur-fadhil-267622168/) - Machine Learning - M194DKX4708
-- [Farhan Aly Hasbi](https://www.linkedin.com/in/farhanaly/) - Cloud Computing - C038DSX0604
-- [Rizal Nawang Pradana](https://www.linkedin.com/in/rizal-nawang-pradana-224b3a271/) - Cloud Computing - C254DSX0785
-- [Zainatul Sirti](https://www.linkedin.com/in/zainatulsirti) - Mobile Development - A304DSY1205
+<br>
