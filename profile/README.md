@@ -11,6 +11,10 @@ Lingu is a mobile application designed to address these issues by facilitating t
 <img src="https://github.com/LinguHanzi/.github/blob/main/assets/6.png" width="24%"></img>
 <img src="https://github.com/LinguHanzi/.github/blob/main/assets/7.png" width="24%"></img>
 
+## Download Link
+
+Here is the [link](https://drive.google.com/file/d/1faiqKaWc3oFij1BwDLSR-MRTa7yRv_xj/view?usp=sharing) of LingU App 
+
 ## Built with
 
 - **Machine Learning:**
@@ -27,7 +31,7 @@ Lingu is a mobile application designed to address these issues by facilitating t
   - Google Cloud
   - Firestore
   - Firebase Auth
-    
+
 ## Features
 
 ### Learn How to Write Mandarin Hanzi
