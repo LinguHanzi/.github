@@ -1,4 +1,5 @@
 ![download](https://github.com/LinguHanzi/.github/blob/main/assets/Mockup1.png)
+![download](https://github.com/LinguHanzi/.github/blob/main/assets/Mockup2.png)
 
 # Lingu
 
