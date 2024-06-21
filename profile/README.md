@@ -4,6 +4,12 @@
 
 Lingu is a mobile application designed to help users learn Mandarin Chinese. Built using Kotlin, Lingu offers a range of features to support language learning, including vocabulary practice, grammar lessons, pronunciation guides, and interactive quizzes.
 
+# Screenshot
+![download](https://github.com/LinguHanzi/.github/blob/main/assets/4.png)
+![download](https://github.com/LinguHanzi/.github/blob/main/assets/5.png)
+![download](https://github.com/LinguHanzi/.github/blob/main/assets/6.png)
+![download](https://github.com/LinguHanzi/.github/blob/main/assets/7.png)
+
 ## Features
 
 - **Vocabulary Practice**: Learn and review Mandarin words with flashcards and spaced repetition.
