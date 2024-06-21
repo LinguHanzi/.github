@@ -33,3 +33,8 @@ To run Lingu, you need:
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/lingu.git
+
+
+## Team Members – C241-PS510
+| Member    | Student ID    | Path    | University    |
+|------------|------------|------------|------------|
