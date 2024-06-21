@@ -1,9 +1,9 @@
 ![download](https://github.com/LinguHanzi/.github/blob/main/assets/Mockup1.png)
-![download](https://github.com/LinguHanzi/.github/blob/main/assets/Mockup2.png)
 
 # Lingu
+From a review of the current literature and field observations, it has been identified that there is a recurring need for effective tools to aid in learning Mandarin Chinese, particularly the Hanzi characters. The demand for Mandarin language proficiency is increasing globally, yet learners often struggle with mastering the writing and recognition of Hanzi. Traditional methods of learning are often insufficient, leading to frustration and slow progress. Moreover, small language institutions with limited resources and a shortage of qualified teachers face significant challenges in providing accurate and timely feedback to students.
 
-Lingu is a mobile application designed to help users learn Mandarin Chinese. Built using Kotlin, Lingu offers a range of features to support language learning, including vocabulary practice, grammar lessons, pronunciation guides, and interactive quizzes.
+Lingu is a mobile application designed to address these issues by facilitating the learning of Mandarin Chinese Hanzi. Developed using Kotlin and integrated with Firebase Auth and Model Tflite, Lingu provides a comprehensive learning experience. It includes features that allow users to practice Hanzi writing on a digital canvas and receive immediate scoring feedback. This application not only supports learners in improving their writing accuracy but also enhances their overall language acquisition process. For language students, the ability to interact with an application that can directly assess their Hanzi writing inputs is both engaging and educational. Factors such as personalized feedback and interactive learning tools make Lingu an invaluable resource for anyone seeking to master Mandarin Chinese Hanzi.
 
 # Screenshot
 <img src="https://github.com/LinguHanzi/.github/blob/main/assets/4.png" width="24%"></img>
