@@ -11,29 +11,66 @@ Lingu is a mobile application designed to address these issues by facilitating t
 <img src="https://github.com/LinguHanzi/.github/blob/main/assets/6.png" width="24%"></img>
 <img src="https://github.com/LinguHanzi/.github/blob/main/assets/7.png" width="24%"></img>
 
+## Download Link
+
+Here is the [link](https://drive.google.com/file/d/1faiqKaWc3oFij1BwDLSR-MRTa7yRv_xj/view?usp=sharing) of LingU App 
+
+## Built with
+
+- **Machine Learning:**
+  - Python
+  - TensorFlow
+  - Jupyter Notebook
+
+- **Mobile Development:**
+  - Figma
+  - Android Studio
+  - Kotlin
+
+- **Cloud Computing:**
+  - Google Cloud
+  - Firestore
+  - Firebase Auth
+
 ## Features
 
-- **Vocabulary Practice**: Learn and review Mandarin words with flashcards and spaced repetition.
-- **Grammar Lessons**: Understand Mandarin sentence structures with detailed explanations and examples.
-- **Pronunciation Guides**: Listen to native speaker pronunciations and practice your own.
-- **Interactive Quizzes**: Test your knowledge with quizzes that adapt to your learning level.
-- **Progress Tracking**: Monitor your progress and set learning goals.
+### Learn How to Write Mandarin Hanzi
+Lingu provides visual guides with static images that show the correct stroke order and structure of Mandarin Hanzi characters. Users can reference these images to understand how each character should be formed.
 
-## Getting Started
+### Interactive Canvas for Writing Practice
+The app includes an interactive digital canvas where users can practice writing Hanzi characters. Users can draw characters directly on their screens, following the provided visual guides to improve their writing skills.
 
-### Prerequisites
+### Accuracy Scoring and Feedback
+Lingu uses advanced machine learning models to analyze the written characters and provide immediate feedback on accuracy. Users receive scores based on the correctness of their strokes and overall character formation, along with tips for improvement.
 
-To run Lingu, you need:
+## Installation
 
-- Android Studio (latest version)
-- An Android device or emulator running Android 5.0 (Lollipop) or higher
-
-### Installation
+To get started with Lingu, follow these steps:
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/lingu.git
+    ```sh
+    git clone https://github.com/LinguHanzi/lingu-md.git
+    ```
 
+2. Open the project in Android Studio.
+
+3. Build and run the project on your Android device or emulator.
+
+## Usage
+
+1. Open the Lingu app on your mobile device.
+2. Sign in using your Firebase Auth credentials.
+3. Select a Hanzi character to learn.
+4. Reference the visual guide to understand the correct stroke order.
+5. Practice writing the character on the interactive canvas.
+6. Receive immediate feedback and scoring on your written character.
+
+- ## Repository Branches
+
+In our project is divided into four branches:
+  - [Machine Learning](https://github.com/LinguHanzi/lingu-ml.git)
+  - [Cloud Computing](https://github.com/LinguHanzi/lingu-API.git)
+  - [Mobile Development](https://github.com/LinguHanzi/lingu-md.git)
 
 ## Team ID – C241-PS510
 <br>
