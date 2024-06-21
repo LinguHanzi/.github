@@ -35,6 +35,17 @@ To run Lingu, you need:
    git clone https://github.com/yourusername/lingu.git
 
 
-## Team Members – C241-PS510
-| Member    | Student ID    | Path    | University    |
-|------------|------------|------------|------------|
+## Team ID – C241-PS510
+<br>
+
+| Name                   | Student ID   | Path                |
+| ---------------------- | -----------  | ------------------- |
+| Dharma Pratama         | M001D4KY1518 | Machine Learning    |
+| Steven Hesang          | M001D4KY1679 | Machine Learning    |
+| Emmanuel Daniel W      | M005D4KY3228 | Machine Learning    |
+| Nanda Tristan A        | A010D4KY4554 | Mobile Development  |
+| Zacky Muchlas D        | A010D4KY3435 | Mobile Development  |
+| Christofel Vitranata S | C319D4KY1215 | Cloud Computing     |
+| Bihan Harsetya Adinata | C200D4KY0101 | Cloud Computing     |
+
+<br>
